@@ -1,6 +1,7 @@
-# spamming
-Script termux spam sms dan whatsapp terbaru 
-Running 1 jam lebih
+# Spam SMS
+Script termux spam sms terbaru 2023
+Copyright@MunksCode2023
+
 # Instalasi
 $ pkg update && pkg upgrade
 
@@ -10,17 +11,18 @@ $ pkg install git
 
 $ pip install requests
 
-$ git clone https://github.com/MunksCode/SpmWA
+$ git clone https://github.com/MunksCode/SpamSMS
+
 # Running
-$ cd SpmWA
+$ cd SpamSMS
 
 $ ls
 
 $ pip install -r requirements.txt
 
-$ python3 ms_run.py
+$ python3 munks.py
 
 # Catatan
 jika ingin mengulang spam dengan nomor yang sama
 setidaknya memberi jeda 2 sampe 5 jam ya.
-kalo mau berjalan lancar setidaknya sehari
+kalo mau spam banyak sms, tab season baru 1-5 di termux
